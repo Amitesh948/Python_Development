@@ -1,0 +1,159 @@
+{
+  "owner": "Amitesh",
+  "expenses": [
+    {
+      "id": 1,
+      "amount": 250.0,
+      "category": "Food",
+      "description": "Morning coffee & breakfast",
+      "date": "2026-07-08"
+    },
+    {
+      "id": 2,
+      "amount": 1500.0,
+      "category": "Transport",
+      "description": "Uber to office",
+      "date": "2026-07-08"
+    },
+    {
+      "id": 3,
+      "amount": 450.0,
+      "category": "Food",
+      "description": "Lunch at cafe",
+      "date": "2026-07-07"
+    },
+    {
+      "id": 4,
+      "amount": 2999.0,
+      "category": "Shopping",
+      "description": "New headphones",
+      "date": "2026-07-07"
+    },
+    {
+      "id": 5,
+      "amount": 800.0,
+      "category": "Entertainment",
+      "description": "Movie tickets",
+      "date": "2026-07-06"
+    },
+    {
+      "id": 6,
+      "amount": 350.0,
+      "category": "Food",
+      "description": "Groceries",
+      "date": "2026-07-06"
+    },
+    {
+      "id": 7,
+      "amount": 1200.0,
+      "category": "Bills",
+      "description": "Phone recharge",
+      "date": "2026-07-05"
+    },
+    {
+      "id": 8,
+      "amount": 5500.0,
+      "category": "Bills",
+      "description": "Electricity bill",
+      "date": "2026-07-04"
+    },
+    {
+      "id": 9,
+      "amount": 200.0,
+      "category": "Food",
+      "description": "Evening snacks",
+      "date": "2026-07-04"
+    },
+    {
+      "id": 10,
+      "amount": 3500.0,
+      "category": "Health",
+      "description": "Doctor visit",
+      "date": "2026-07-03"
+    },
+    {
+      "id": 11,
+      "amount": 150.0,
+      "category": "Transport",
+      "description": "Bus pass",
+      "date": "2026-07-03"
+    },
+    {
+      "id": 12,
+      "amount": 999.0,
+      "category": "Education",
+      "description": "Online course",
+      "date": "2026-07-02"
+    },
+    {
+      "id": 13,
+      "amount": 680.0,
+      "category": "Food",
+      "description": "Dinner with friends",
+      "date": "2026-07-01"
+    },
+    {
+      "id": 14,
+      "amount": 4200.0,
+      "category": "Shopping",
+      "description": "New shoes",
+      "date": "2026-06-30"
+    },
+    {
+      "id": 15,
+      "amount": 350.0,
+      "category": "Entertainment",
+      "description": "Spotify subscription",
+      "date": "2026-06-28"
+    },
+    {
+      "id": 16,
+      "amount": 1000.0,
+      "category": "Food",
+      "description": "went for dinner",
+      "date": "2026-07-07"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Food",
+      "emoji": "\ud83c\udf54",
+      "budget": 5000.0
+    },
+    {
+      "name": "Transport",
+      "emoji": "\ud83d\ude97",
+      "budget": 3000.0
+    },
+    {
+      "name": "Shopping",
+      "emoji": "\ud83d\udecd\ufe0f",
+      "budget": 4000.0
+    },
+    {
+      "name": "Bills",
+      "emoji": "\ud83d\udcc4",
+      "budget": 6000.0
+    },
+    {
+      "name": "Entertainment",
+      "emoji": "\ud83c\udfac",
+      "budget": 2000.0
+    },
+    {
+      "name": "Health",
+      "emoji": "\ud83c\udfe5",
+      "budget": 2000.0
+    },
+    {
+      "name": "Education",
+      "emoji": "\ud83d\udcda",
+      "budget": 3000.0
+    },
+    {
+      "name": "Other",
+      "emoji": "\ud83d\udce6",
+      "budget": 0.0
+    }
+  ]
+}
